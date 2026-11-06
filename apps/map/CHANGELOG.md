@@ -1,5 +1,24 @@
 # Changelog
 
+## [7.9.1](https://github.com/F3-Nation/f3-nation/compare/map@7.9.0...map@7.9.1) (2026-11-06)
+
+
+### Bug Fixes
+
+* **auth:** consume email sign-in tokens atomically ([#1463](https://github.com/F3-Nation/f3-nation/issues/1463)) ([2d9695d](https://github.com/F3-Nation/f3-nation/commit/2d9695da355f8613045dae49cf72b73273af3b67))
+* **map:** preserve AO identity after weekday filtering ([#1455](https://github.com/F3-Nation/f3-nation/issues/1455)) ([429d033](https://github.com/F3-Nation/f3-nation/commit/429d033160dc3cf1f8498ce2407ce1f3bccf88f6))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @acme/api bumped to 0.16.1
+    * @acme/auth bumped to 0.2.13
+    * @acme/shared bumped to 0.6.1
+    * @acme/ui bumped to 0.3.1
+    * @acme/validators bumped to 0.5.3
+
 ## [7.9.0](https://github.com/F3-Nation/f3-nation/compare/map@7.8.1...map@7.9.0) (2026-10-29)
 
 

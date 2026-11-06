@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/F3-Nation/f3-nation/compare/pkg-shared@0.6.0...pkg-shared@0.6.1) (2026-11-06)
+
+
+### Bug Fixes
+
+* **slackbot:** omit empty calendar special-event sections ([#1477](https://github.com/F3-Nation/f3-nation/issues/1477)) ([f2a5f7f](https://github.com/F3-Nation/f3-nation/commit/f2a5f7f0c2a21b12420ea24079d1e1813e4adfe8))
+
 ## [0.6.0](https://github.com/F3-Nation/f3-nation/compare/pkg-shared@0.5.1...pkg-shared@0.6.0) (2026-10-29)
 
 

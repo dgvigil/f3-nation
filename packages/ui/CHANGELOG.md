@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.3.1](https://github.com/F3-Nation/f3-nation/compare/pkg-ui@0.3.0...pkg-ui@0.3.1) (2026-11-06)
+
+
+### Bug Fixes
+
+* **ui:** resolve react-hooks lint violations in packages/ui ([#1378](https://github.com/F3-Nation/f3-nation/issues/1378)) ([c0a1f85](https://github.com/F3-Nation/f3-nation/commit/c0a1f852c43e51368bafffdbac6f43999f6d64e9))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @acme/shared bumped to 0.6.1
+
 ## [0.3.0](https://github.com/F3-Nation/f3-nation/compare/pkg-ui@0.2.3...pkg-ui@0.3.0) (2026-10-29)
 
 

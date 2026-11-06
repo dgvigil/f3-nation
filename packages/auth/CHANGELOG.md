@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.2.13](https://github.com/F3-Nation/f3-nation/compare/pkg-auth@0.2.12...pkg-auth@0.2.13) (2026-11-06)
+
+
+### Bug Fixes
+
+* **auth:** consume email sign-in tokens atomically ([#1463](https://github.com/F3-Nation/f3-nation/issues/1463)) ([2d9695d](https://github.com/F3-Nation/f3-nation/commit/2d9695da355f8613045dae49cf72b73273af3b67))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @acme/db bumped to 0.10.3
+    * @acme/shared bumped to 0.6.1
+
 ## [0.2.12](https://github.com/F3-Nation/f3-nation/compare/pkg-auth@0.2.11...pkg-auth@0.2.12) (2026-10-29)
 
 
